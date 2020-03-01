@@ -1,1 +1,1 @@
-# bricomql
+# bricoMQL
